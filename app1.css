@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(19, 214, 156);
+}
+h1{
+    color: gold;
+    text-align: center;
+}
+ul{
+    color: brown;
+     
+    
+}
+img{
+    width: 400px;
+    margin-left: 145px;
+    padding: 20px 1px;
+}
+hr{
+    color: pink;
+}
+ol{
+    color: red;
+}
+a{
+     font-size: 16px;
+
+}
+div{
+    border-radius: 40px;
+    border-color: gold;
+    border-style: groove;
+}
+#top {
+    text-align: center;
+    color: gold;
+    
+}
+#johan{
+    position: inherit;
+}
+h2{
+    position: fixed;
+    color:rgb(248, 224, 224);
+    border-radius: 65px;
+    border-style: dashed;
+}
